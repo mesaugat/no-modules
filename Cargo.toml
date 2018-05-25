@@ -1,6 +1,9 @@
 [package]
 name = "no-modules"
-version = "0.1.0"
+version = "1.0.0-alpha"
 authors = ["Saugat Acharya <mesaugat@gmail.com>"]
 
 [dependencies]
+colored = "1.6"
+getopts = "0.2"
+walkdir = "2"
